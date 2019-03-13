@@ -1,0 +1,211 @@
+#https://www.sheknows.com/living/articles/1026523/100-words-from-urban-dictionary-that-changed-the-world/4/
+#Regex [0-9]+. (.*)—.*
+
+1. A crapella — singing (badly) while listening to music through headphones
+
+2. Ann Curry-ed — being fired unexpectedly and/or without cause
+
+3. Askhole — an individual who asks ridiculous, obnoxious or irrelevant questions (this is often chronic behavior)
+
+4. Awesome sauce — something that is more awesome than awesome (awesome topped with awesome sauce)
+
+5. Baby bump — the protruding abdominal region of a woman when she starts to become noticeably pregnant (often creates speculation a woman is pregnant even when it’s the result of bloating or the way clothes fall)
+
+6. Badassery — actions or behavior that are amazing or unbelievable; the act of being a badass
+
+7. Beer me — please, get me a beer (can also be used figuratively to ask for anything to be passed or retrieved for the speaker)
+
+8. Bitchy resting face — the state of a face while not emoting in which the individual looks hostile or judgmental
+
+9. Bitcoin — electronic currency that can be transferred securely without the need of a third party (such as a bank or PayPal) 
+
+10. Blamestorming — usually in a business setting, the act of attempting to identify who was to blame for a failure or problem, rather than trying to brainstorm a solution
+
+11. Boomerang child — a child who moves out to start his or her own life, then returns home to live (often as a result of the economy, but possibly due to irresponsibility of some kind)
+
+12. Bromance — 1) as a noun or adjective, two heterosexual males with such a close relationship they appear to be romantically involved; 2) as a verb, the act of attempting to become closer to a fellow heterosexual male (usually through acts similar to romancing a woman, such as flattery, gifts and spending alone time)
+
+13. Bropocalypse — a large gathering of adult males with the sole mission of getting drunk (such as at a fraternity party)
+
+14. Bye Felicia — exclamation used when a person announces they are exiting, but other people in the area don’t care; adapted from 2005 film Friday starring Chris Tucker and Ice Cube
+
+15. C-note — a $100 bill (where C stands for centum, the Latin word for 100)
+
+16. Cock block — 1) referring to a slang term for male genitalia, the act of preventing a man from getting somewhere (getting to know, getting a date or having sexual relations) with a man or woman he is interested in; action may be committed by a male or female; 2) in traffic, to cut someone off
+
+17. Cougar — an older woman who prefers the romantic company of much-younger men
+
+18. Crackberry — a slang term for a mobile phone brand (BlackBerry) that implies its user is addicted to the device
+
+19. Crunk — 1) a replacement for foul curse words (popularized by a joke on Conan O’Brien); 2) a combination of crazy and drunk, meaning crazy drunk (may also refer to people who are high); 3) a style of rap music popular in the South; 4) something at a high level (e.g., volume) or something awesome; 5) to have a good time
+
+20. Cyberslacking — using one’s employer’s Internet and email for personal activities during work
+
+21. Designated drunk — the individual who drinks all offers of free drinks sent to the designated driver
+
+22. Driving the Bronco — in reference to A.C. Cowlings driving the Bronco in which O.J. Simpson was attempting to evade police, an accomplice or accessory to an illegal or unethical act
+
+23. Duck face — a face made by pursing and pouting one’s lips in an attempt to make them appear fuller or to make the cheekbones appear more prominent (frequently utilized by young women in selfies or other photos in an attempt to look flirty or more model-esque)
+
+24. Dude — similar to a pronoun and commonly used (especially by skaters, surfers and stoners) to address one another or as an adjective to express emphasis, amazement or awe
+
+25. Dweet — to tweet while drunk (also drunk tweet)
+
+26. Earjacking — 1) eavesdropping on a conversation you have no business hearing; 2) forcing your friends to listen to (bad) music they don’t want to hear
+
+27. Earmuffs — an exclamation used to inform another they should cover their ears to avoid hearing what’s about to be said, as in profanity or a secret
+
+28. Ego surfing — using a search engine to look for references about yourself
+
+29. Extra — over-the-top, excessive behavior
+
+30. Fanboi/fangirl — refers to a devotee of a particular product/company/person (i.e., Apple fanboi, Adam Levine fangirl)
+
+31. Fauxpology — an insincere apology
+
+32. Finesse — the ability to smooth-talk, persuade, or maneuver something to your advantage
+
+33. Frak — a fictional swear popularized by the TV show Battlestar Gallatica and frequently used by people (usually nerds) who’d like to curse but keep it clean
+
+34. Frankenfood — genetically modified or otherwise processed food that isn’t found in nature
+
+
+35. Freak flag — a particular characteristic, mannerism or method of dress/appearance, either subtle or overt, that acts as a “red flag” of a person’s unique, eccentric, creative, adventurous or unconventional behavior or thinking
+
+36. Friend zone — the status of being stuck as a person’s friend after attempting to woo (or being too nice hoping to woo) him or her
+
+37. Froyo — frozen yogurt (a trademark, but also often used colloquially to refer to any frozen yogurt)
+
+38. Gaydar — similar to sonar in dolphins, the innate ability to detect homosexuality in other people
+
+39. Girl crush — (a girl) having great admiration and adoration for another girl that is completely platonic (see SheKnows Girl Crush)
+
+40. Grrrl — a young woman who is independent and strong or aggressive, especially in her attitude toward men, sexuality or the like
+
+41. Hangry — a state of mind and behavior characterized by being angry as a result of hunger (hungry + angry)
+
+42. Helicopter parent — a parent who meddles constantly in a child’s life, often into adulthood, to the point of attempting to control every aspect of the child’s life and the actions of those he or she interacts with
+
+43. Hipster — an individual who attempts (often with too much effort) to avoid being a member of the mainstream; the term may be complimentary or pejorative (depending on context), but in general, hipsters tend to listen to indie or local musicians that no one else has heard of, dress alternatively (often wearing thrift store or vintage clothing as a rejection of consumerism) and have edgy or androgynous hairstyles [Note: in extreme cases, hipsters may regard those who don’t align with their values smugly]
+
+44. Hot mess — a situation, behavior or appearance in a disastrous state; often refers to an individual who’s attractive but doesn’t have it together
+
+45. Humblebrag — a boastful statement couched in false humility (may be used as a hashtag to draw attention to it before others do)
+
+46. Hundo — 100 percent; also, “hundo p”
+
+47. Jailbait — an attractive female under the age of consent with whom an older man would like to have sex but risks jail time if he does so (thus creating the need for men of a certain age to card unknown conquests)
+
+48. Karaoke filibuster — the act of preventing others from participating in karaoke by choosing an extraordinarily long song
+
+49. Kicks — shoes
+
+50. Knosh — as a verb, to eat; as a noun, the food being consumed
+
+51. Legendary — a state of extreme awesomeness, popularized by Neil Patrick Harris’ character “Barney Stinson” on How I Met Your Mother (often, the syllables are drawn out as in the case of said character, as in “Legen… wait for it… dary!”)
+
+52. Lit — previously meant drunk, more recently means awesome, excellent, turned up
+
+53. LOL — laugh out loud (usually used to express amusement online or in text)
+
+54. Ludwigvanquixote — someone who is fanatical, especially someone with delusions of grandeur or Chicken Little-type paranoia (you may also substitute another name or noun in place of Quixote to change the type of fanaticism)
+
+55. Make it rain — 1) to throw large quantities of paper money in the air (often in the context of a strip club) to pay service providers, usually as a display of wealth; 2) (lesser used) when any debris is thrown or thrust in the air (as in an explosion), the resulting effect is that of raining; 3) Explicit: We’re not prudes, but this one was too much for us; please see Urban Dictionary for details.
+
+56. Man boobs — refers to gynecomastia, a medical condition caused by obesity or a hormonal imbalance in which mean appear to have female-like breasts (see also: moobs)
+
+57. Man cave — a room or other space set aside for a man where he can decorate and behave (with or without his friends) as he sees fit — these spaces often include locations for TV, gaming, drinking (including a bar or keg), a recliner and/or cozy couch and provocative imagery (perhaps including porn)
+
+58. Meat sweats — to begin to perspire as the result of consuming large quantities of meat (the medical term for this very real phenomenon is protein-induced thermogenesis)
+
+59. MILF — (initials for “mother I’d like to fuck”) a woman with children with whom one would like to have sexual intercourse with
+
+60. Nasty woman — an intelligent female who is adept at putting ignorant men in their place
+
+61. Netflix and chill — code for having sex with Netflix on in the background
+
+62. Ninja sex — silent sexual intercourse in order to avoid awaking a sleeping roommate
+
+63. Nom — eating (or nom, nom, nom or om, nom, nom… mimics the sound someone makes while enjoying something) [Note: can also be used humorously to refer to things you aren’t really eating]
+
+64. Nontroversy — a scandal or controversy that doesn’t exist until it’s created, as by a politician
+
+65. NSFW — initials for “not safe for work” — intended to warn the recipient of an email or other unanticipated communication that may be inappropriate for the workplace (i.e., contains cursing, nudity, etc.; may be context-specific to the recipient’s workplace)
+
+66. OM(F)G! — initials for “oh my (fucking) God!” (the addition of the expletive implies greater reaction; those who prefer a less-coarse or blasphemous version may drop the F and assume the G stands for “goldfish”); used to express shock (positive or negative), dismay or horror, often in text or social media, though some do speak the initials aloud (those who speak the initials aloud are most frequently teenage girls)
+
+67. On a boat — 1) the act of watching “I’m on a Boat” by The Lonely Island featuring T-Pain; 2) on a roll; so good you can’t be touched
+
+68. One-upper — an individual who responds to hearing someone else’s story by telling a similar story that’s more fantastic (generally these stories are considered to be false)
+
+69. Party foul — an action that’s socially unacceptable at a social gathering, especially a party
+
+70. Phat — 1) initials for “pretty hot and tempting” (usually relating to a woman with ample assets); 2) awesome; cool [Note: currently considered out of style and only used by “wannabes”]
+
+71. Please advise — [Note: while this is a common phrase, the humor is in the redefinition] corporate-speak implying exasperation with a colleague’s lack of follow-through (it would most likely appear at the bottom of an email in which the sender is asking for something he or she should have received some time ago)
+
+72. Pregret — knowing you shouldn’t do something or you’ll regret it, but doing it anyway
+
+73. Pwned — to own (as in to defeat an opponent badly)
+
+74. Quantum physics — the ultimate mind-screw (e.g., the reason one sock disappears when you do your laundry)
+
+75. Ratchet — a diva, especially one from an urban area or of lower socioeconomic status, who incorrectly believes she is every man’s dream
+
+76. Rendezbooze — a designated time and place to drink with a group of friends (e.g., MacLaren’s Pub in How I Met Your Mother)
+
+77. Rickroll — a prank involving sending a video with a promising or salacious title that turns out to be a video of Rick Astley singing “Never Gonna Give You Up”
+
+78. Said no one ever — an expression used to convey the absurdity of a statement, usually with a significant pause before the word “ever” (e.g., when referring to a shirt the speaker thinks is hideous, “What an awesome shirt! Said no one… ever.”)
+
+79. Salmon — a man who likes to date younger women (i.e., swims upstream)
+
+80. Salty — mad, upset
+
+81. Savage — someone who has acted ruthlessly (can also be used as a compliment)
+
+82. Selfie — a picture one takes of herself or himself, usually with a camera phone, and often with the purpose of uploading it to social media sites
+
+83. Sext — to send suggestive text messages or photos
+
+84. Shook — incredibly shocked or surprised, shaken to your core
+
+85. Side boob — the side portion of the female breast visible when a woman wears skimpy or ill-fitting clothing
+
+86. Skrill — money or capital
+
+87. Snail mail — the use of the regular postal service rather than email (the implication often being that it will take longer to get it and could have been sent via email)
+
+88. Sniff test — an olfactory exam of a previously worn (dirty) item of clothing to determine whether it’s acceptable to wear again
+
+89. Swag — from swagger, a term used to refer positively to the manner in which someone presents himself or herself (individuals with swag are generally considered confident and/or cool)
+
+90. Sweet — an intensive that expresses satisfaction or indicates awesomeness (usually with a prolonged vowel sound)
+
+91. That’s what she said — A one-liner response to indicate what the individual just said to you could have a sexual connotation (also, that’s what he said)
+
+92. Trout — a man who likes to date younger women (i.e., swims downstream)
+
+93. Twerk — a rhythmic dance featuring the gyration of the hips, often creating a rippling effect in the buttocks, with the intent of eliciting sexual arousal or amusement from the audience (for examples, please search “Miley Cyrus”)
+
+94. Turnt — dual meanings, though related: one is drunk, the other is excited or hyped, particularly for a party
+
+95. Typeractive — someone who’s overly talkative in emails or text
+
+96. Upskirt — a video or photograph taken up a girl’s skirt, with or without undies (photo may be taken by the woman or another individual)
+
+97. Virgin ears — a term used to call attention to someone’s naiveté (specifically someone who hasn’t been exposed to talk about sex, drugs, profanity, etc.)
+
+98. W00t! — a term of excitement believed to be short for “woo loot,” as in winning a lot of money in gaming (also woot!)
+
+99. Woke — being aware, knowing what’s going on in the community
+
+100. Word out — marks the departure of the speaking individual from a conversation (also name out, similar to television personality and popular radio DJ Ryan Seacrest’s sign-off, “Seacrest out”
+
+101. WTF — initials for “what the fuck,” often used in informal typewritten communications (e.g., texts, Twitter) or pronounced as initials in situations in which dropping the F-bomb would be inappropriate
+
+102. X-factor — possessing an indescribable quality that makes one desirable or interesting;  je ne sais quoi (also the name of a reality singing competition)
+
+103. YOLO — (you only live once) an initialism used to express a carpe diem (seize the day) sentiment in relation to a silly, stupid or irresponsible act (e.g., I’m wearing two different colored socks because YOLO)
+
+104. Zombie ad — a political advertisement that continues to appear after the election is over
