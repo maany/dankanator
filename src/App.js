@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, TouchableWithoutFeedback } from 'react-native';
 import {words} from './package.json';
 import { Button } from 'react-native';
 
@@ -7,7 +7,8 @@ export default class App extends React.Component {
   constructor(){
     super()
     this.state = {
-      dank_word: "Press the button"
+      dank_word: "Press the button",
+      bg: "red"
     }
   }
   dank = () => {
@@ -27,9 +28,10 @@ export default class App extends React.Component {
     this.setState({dank_word: this.dank()})
   }
   render() {
-    
     return (
-      <View style={styles.container}>
+
+      <TouchableWithoutFeedback onPress={() => this.setState({bg:"#0f0"})}>
+        <View style={[styles.container, {backgroundColor: this.state.bg}]}>
         <Text style={styles.paragraph}>
           {this.state.dank_word}
         </Text>
@@ -40,14 +42,13 @@ export default class App extends React.Component {
           accessibilityLabel="Learn more about this purple button"
         />
       </View>
+      </TouchableWithoutFeedback>
     );
   }
 }
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
   },
