@@ -1,11 +1,13 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import {words} from './package.json';
 
 export default class App extends React.Component {
   render() {
+    
     return (
       <View style={styles.container}>
-        <Text>Open up Appp.js to start working on your app!</Text>
+        <Text>{words[0]}</Text>
       </View>
     );
   }
