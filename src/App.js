@@ -3,20 +3,24 @@ import { StyleSheet, Text, View } from 'react-native';
 import {words} from './package.json';
 
 export default class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { bg: "#f00", };
+  }
+
   render() {
-    
     return (
-      <View style={styles.container}>
+      <View style={[styles.container, {backgroundColor: this.state.bg}]}
+        onPress={() => this.setState({bg:"#0f0"})}
+      >
         <Text>{words[0]}</Text>
       </View>
     );
   }
 }
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
   },
