@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, TouchableWithoutFeedback } from 'react-native';
 import {words} from './package.json';
 
 export default class App extends React.Component {
@@ -10,11 +10,11 @@ export default class App extends React.Component {
 
   render() {
     return (
-      <View style={[styles.container, {backgroundColor: this.state.bg}]}
-        onPress={() => this.setState({bg:"#0f0"})}
-      >
-        <Text>{words[0]}</Text>
-      </View>
+      <TouchableWithoutFeedback onPress={() => this.setState({bg:"#0f0"})}>
+        <View style={[styles.container, {backgroundColor: this.state.bg}]}>
+          <Text>{words[0]}</Text>
+        </View>
+      </TouchableWithoutFeedback>
     );
   }
 }
