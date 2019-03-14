@@ -6,7 +6,7 @@ export default class App extends React.Component {
   constructor(){
     super()
     this.state = {
-      dank_word: "Tap that",
+      dank_word: "Tap that Baby! Oh Yeah!",
       bg: "red"
     }
   }
