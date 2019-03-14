@@ -1,46 +1,41 @@
 import React from 'react';
 import { StyleSheet, Text, View, TouchableWithoutFeedback } from 'react-native';
-import {words} from './package.json';
-import { Button } from 'react-native';
+import {words, colors} from './package.json';
 
 export default class App extends React.Component {
   constructor(){
     super()
     this.state = {
-      dank_word: "Press the button",
+      dank_word: "Tap that",
       bg: "red"
     }
   }
-  dank = () => {
-    var dank_list = [
-    "dank",
-    "hot shit",
-    "fire",
-    "holy shit",
-    "bonkers",
-    "bananas",
-    "labradoodles"
-    ]
-    var dank_word = dank_list[Math.floor(Math.random()*dank_list.length)]
+  colorify = () => {
+    var dank_color = colors[Math.floor(Math.random()*colors.length)]
+    return dank_color
+  }
+  dankify = () => {
+    var dank_word = words[Math.floor(Math.random()*words.length)]
     return dank_word
   }
+  set_dank_color = () => {
+    this.setState({bg: this.colorify()})
+  }
   set_dank_word = () => {
-    this.setState({dank_word: this.dank()})
+    this.setState({dank_word: this.dankify()})
+  }
+  make_it_dank = () => {
+    this.setState({dank_word: this.dankify()})
+    this.setState({bg: this.colorify()})
   }
   render() {
     return (
 
-      <TouchableWithoutFeedback onPress={() => this.setState({bg:"#0f0"})}>
+      <TouchableWithoutFeedback onPress={this.make_it_dank}>
         <View style={[styles.container, {backgroundColor: this.state.bg}]}>
         <Text style={styles.paragraph}>
           {this.state.dank_word}
         </Text>
-        <Button
-          onPress={this.set_dank_word}
-          title="Spit em Rhymes!"
-          color="#841584"
-          accessibilityLabel="Learn more about this purple button"
-        />
       </View>
       </TouchableWithoutFeedback>
     );
