@@ -1,14 +1,24 @@
 import React from 'react';
 import { StyleSheet, Text, View, TouchableWithoutFeedback } from 'react-native';
 import {words, colors} from './package.json';
+import { Font } from 'expo';
 
 export default class App extends React.Component {
+  state = {
+    dank_word: "Tap that Baby! Oh Yeah!",
+    bg: "red",
+    fonts_loaded: false
+  };
+  async componentDidMount() {
+    ttt= await Font.loadAsync({
+      'chivo_bold': require('./assets/fonts/Chivo-Bold.ttf')
+    });
+    this.setState({fonts_loaded: "true"})
+    console.log(ttt)
+  }
   constructor(){
     super()
-    this.state = {
-      dank_word: "Tap that Baby! Oh Yeah!",
-      bg: "red"
-    }
+    
   }
   colorify = () => {
     var dank_color = colors[Math.floor(Math.random()*colors.length)]
@@ -29,13 +39,20 @@ export default class App extends React.Component {
     this.setState({bg: this.colorify()})
   }
   render() {
-    return (
-
+    return (    
       <TouchableWithoutFeedback onPress={this.make_it_dank}>
-        <View style={[styles.container, {backgroundColor: this.state.bg}]}>
-        <Text style={styles.paragraph}>
-          {this.state.dank_word}
-        </Text>
+        <View style={[styles.container, {backgroundColor: this.state.bg}]}> 
+           {
+             this.state.fonts_loaded ? 
+              <Text style={[styles.text, styles.text_font]}>
+                {this.state.dank_word}
+              </Text>
+              : <Text style={[styles.text]}>
+                {this.state.dank_word}
+                </Text>
+           }
+            
+          
       </View>
       </TouchableWithoutFeedback>
     );
@@ -47,4 +64,11 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  text: {
+    transform: [{ rotate: '-45deg'},]
+  },
+  text_font: {
+    fontFamily: 'chivo_bold',
+    fontSize: 60
+  }
 });
