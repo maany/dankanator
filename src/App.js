@@ -54,17 +54,10 @@ export default class App extends Component<Props> {
     return (    
       <TouchableWithoutFeedback onPress={this.make_it_dank}>
         <View style={[styles.container, {backgroundColor: this.state.bg}]}> 
-           {
-             this.state.fonts_loaded ? 
-              <Text style={[styles.text, styles.text_font]}>
-                {this.state.dank_word}
-              </Text>
-              : <Text style={[styles.text]}>
+           
+              <Text style={[styles.text]}>
                 {this.state.dank_word}
                 </Text>
-           }
-            
-          
       </View>
       </TouchableWithoutFeedback>
     );
@@ -77,10 +70,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   text: {
-    transform: [{ rotate: '-45deg'},]
-  },
-  text_font: {
-    fontFamily: 'chivo_bold',
+    fontFamily: 'Chivo-Bold',
+    transform: [{ rotate: '-45deg'},],
     fontSize: 60
   }
 });
