@@ -1,13 +1,25 @@
-import React from 'react';
+/**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ *
+ * @format
+ * @flow
+ */
+
+import React, {Component} from 'react';
 import { StyleSheet, Text, View, TouchableWithoutFeedback } from 'react-native';
 import {words} from './package.json';
-//import Tts from 'react-native-tts';
+import Tts from 'react-native-tts';
 
-export default class App extends React.Component {
+type Props = {};
+
+
+
+export default class App extends Component<Props> {
   constructor(props) {
     super(props);
     this.state = { bg: "#f00", };
-    //Tts.speak('Hello, world!');
+    Tts.speak('Hello, world!');
   }
 
   render() {

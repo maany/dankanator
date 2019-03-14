@@ -1,19 +1,27 @@
 {
+  "name": "test",
+  "version": "0.0.1",
+  "private": true,
   "scripts": {
-    "start": "react-native start",
-    "android": "react-native run-android",
-    "ios": "react-native run-ios"
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
   },
   "dependencies": {
-    "@babel/runtime": "^7.3.4",
-    "react": "16.5.0",
-    "react-native": "^0.59.0",
+    "react": "16.8.3",
+    "react-native": "0.59.0",
     "react-native-tts": "^2.0.0"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.0.0"
+    "@babel/core": "^7.3.4",
+    "@babel/runtime": "^7.3.4",
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0",
+    "metro-react-native-babel-preset": "^0.53.0",
+    "react-test-renderer": "16.8.3"
   },
-  "private": true,
+  "jest": {
+    "preset": "react-native"
+  },
   "words": [
     "A crapella",
     "Ann Curry-ed",
